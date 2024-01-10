@@ -1,2 +1,3 @@
 # Calculator
 "Fancy Calculator: Stylish, Functional, Elegant."
+"Fancy Calculator" is a stylish web-based calculator with a modern design, featuring basic arithmetic operations and a history function. Built using HTML, CSS, and JavaScript, it incorporates Font Awesome icons and smooth animations for an enhanced user experience. The calculator showcases a responsive layout with a gradient background, and the history page displays past calculations. Users can seamlessly switch between the calculator and the history view. Overall, it provides a visually appealing and functional tool for performing calculations with a touch of elegance.
